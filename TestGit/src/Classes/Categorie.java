@@ -18,3 +18,5 @@ public String getLibellecategorie() {
 return libellecategorie;
 } 
 }
+
+//Test
